@@ -5,3 +5,6 @@ yes
 learnt git today
 learning it every day
 wsa - usa - sd
+kuber
+docker
+sign
